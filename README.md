@@ -16,6 +16,6 @@ Hệ thống bán mỹ phẩm cao cấp trực tuyến giúp khách hàng dễ d
 👥 Thành viên nhóm
 Thành viên	Vai trò	GitHub
 🌟 Lê Tuyết Ngân: Backend Developer
-🎨 Trần Như Nguyện: Frontend Developer	@tranthib
+🎨 Trần Như Nguyện: Frontend Developer
 🛢️ 	Đặng Khắt Huy: Database Designer	
 📋 Lê Võ Phương Uyên:	Project Manager	
